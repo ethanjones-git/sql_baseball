@@ -9,13 +9,13 @@ A repository with two mySQL scripts used to create and query from an AWS RDS on 
 
 Enter the first and last name of any MLB player up to the 2021 season and the three simple visulizations are presented. In the backend a MySQL database is quired, to which the Python app creates the visualizations. The Python application code isn't shared here as the focus is MySQL.
 
-### A Diagram Demonstrating How the Application Works
+#### A Diagram Demonstrating How the Application Works
 ![A Diagram Demonstrating How the Application Works](https://github.com/ethanjones-git/sql_baseball/blob/main/image/diagram.png?raw=true 'Diagram')
 
 
 ## create_db_tables.sql
 
-This script loads locally stored .csvs to the external MySQL database. The dataset is a set of relational .csvs by ![sean lahman] (https://www.seanlahman.com/baseball-archive/statistics/). These were downloaded locally, then stored in a MySQl database established in AWS's relational data service.
+This script loads locally stored .csvs to the external MySQL database. The dataset is a set of relational .csvs by [sean lahman](https://www.seanlahman.com/baseball-archive/statistics/). These were downloaded locally, then stored in a MySQl database established in AWS's relational data service.
 
 ## player_query.sql
 
