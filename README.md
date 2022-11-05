@@ -15,7 +15,7 @@ Enter the first and last name of any MLB player up to the 2021 season and the th
 
 ## create_db_tables.sql
 
-This script loads locally stored .csvs to the external MySQL database. The dataset is a set of relational .csvs by [sean lahman] (https://www.seanlahman.com/baseball-archive/statistics/). These were downloaded locally, then stored in a MySQl database established in AWS's relational data service.
+This script loads locally stored .csvs to the external MySQL database. The dataset is a set of relational .csvs by ![sean lahman] (https://www.seanlahman.com/baseball-archive/statistics/). These were downloaded locally, then stored in a MySQl database established in AWS's relational data service.
 
 ## player_query.sql
 
