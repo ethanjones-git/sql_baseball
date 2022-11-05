@@ -1,6 +1,6 @@
 
 
-# sql baseball app
+# MySQL baseball app
 #### [Visit the app!](https://my-bb-app.herokuapp.com/)
 
 A repository with two mySQL scripts used to create and query from an AWS RDS on baseball players. The queried player data then is visualized with Python library Plotly.
