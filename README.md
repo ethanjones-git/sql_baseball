@@ -10,6 +10,7 @@ A repository with two mySQL scripts used to create and query from an AWS RDS on 
 Enter the first and last name of any MLB player up to the 2021 season and the three simple visulizations are presented. In the backend a MySQL database is quired, to which the Python app creates the visualizations. The Python application code isn't shared here as the focus is MySQL.
 
 #### A Diagram Demonstrating How the Application Works
+
 ![A Diagram Demonstrating How the Application Works](https://github.com/ethanjones-git/sql_baseball/blob/main/image/diagram.png?raw=true 'Diagram')
 
 
